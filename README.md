@@ -10,7 +10,7 @@ systems end to end, and I report results on leakage-free, held-out test sets.
 | [Smart Health: Diabetes Prediction](https://github.com/Ashwath-04/Smart-Health-Machine-Learning-Based-Smart-Diabetes-Prediction) | Stacking ensemble with leakage-safe SMOTE, SHAP explanations, FastAPI service and Streamlit UI. UG capstone with Badri Gopikrishna. | Recall 0.815, F1 0.693, ROC-AUC 0.821 | scikit-learn, XGBoost, CatBoost, Optuna, FastAPI, Docker |
 | [Human Protein Atlas XAI](https://github.com/Ashwath-04/human-protein-atlas-xai) | 4-channel MobileNetV2 for 28-class protein localization on 31,072 microscopy images, with Grad-CAM, a FastAPI backend and a Next.js front end. | Macro F1 0.571, macro ROC-AUC 0.949 | PyTorch, Grad-CAM, FastAPI, Next.js |
 | [Customer Churn Prediction](https://github.com/Ashwath-04/customer-churn-prediction) | Five tuned classifiers on 7,043 telecom customers, threshold chosen on out-of-fold predictions, SHAP. | ROC-AUC 0.848, recall on churners 72.5% | scikit-learn, XGBoost, SHAP |
-| [Paddy Yield Prediction](https://github.com/Ashwath-04/Paddy-Yield-Prediction) | Regression on the UCI Paddy dataset with a leakage audit, Optuna tuning and SHAP. | See repository | LightGBM, XGBoost, Optuna, SHAP |
+| [Paddy Yield Prediction](https://github.com/Ashwath-04/Paddy-Yield-Prediction) | Regression on the UCI Paddy dataset with a leakage audit, Optuna tuning and SHAP. | R² 0.991 total yield, 0.496 per hectare | LightGBM, XGBoost, Optuna, SHAP |
 | [Iris Classification](https://github.com/Ashwath-04/iris-classification) | Five classifiers compared with repeated stratified CV. | Accuracy 0.967 (SVM) | scikit-learn |
 
 Every project repository has the same layout: `src/` for the code, `scripts/` to train and evaluate, `notebooks/`
