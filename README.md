@@ -32,4 +32,4 @@ trained weights are not committed; each README says where to get the data.
 
 ## Contact
 
-[Portfolio](https://ashwath-04.github.io) · [LinkedIn](https://linkedin.com/in/ashwath-mohan) · ashwath.mohan.t@gmail.com
+[Resume (PDF)](Ashwath_M_Resume_SNU.pdf) · [Portfolio](https://ashwath-04.github.io) · [LinkedIn](https://linkedin.com/in/ashwath-mohan) · ashwath.mohan.t@gmail.com
